@@ -16,7 +16,7 @@ The BitCurator GitHub organization currently includes two core repositories that
 - bitcurator-distro-salt (https://github.com/bitcurator/bitcurator-distro-salt)
 - bitcurator-distro-tools (https://github.com/bitcurator/bitcurator-distro-tools)
 
-The BitCurator environment is a customized respin of Ubuntu. Aside from the initial Ubuntu install, a small number of manual tweaks, and executing the respin tool, the process is fully automated by SaltStack; instructions can be found in the bitcurator-distro-salt repository. To get started building and testing a new release, you will need the following:
+The BitCurator environment is a customized respin of Ubuntu. Aside from the initial Ubuntu install, a small number of manual tweaks, and executing the respin tool, the process is fully automated by SaltStack. To get started building and testing a new release, you will need the following:
 
 - The latest Ubuntu 18.04LTS release
 - bitcurator-distro-salt (https://github.com/bitcurator/bitcurator-distro-salt)
