@@ -1,4 +1,4 @@
-[![Logo](https://wiki.bitcurator.net/downloads/BitCurator-400px.png)
+![Logo](https://wiki.bitcurator.net/downloads/BitCurator-400px.png)
 
 # bitcurator-distro
 
@@ -11,7 +11,7 @@ Looking for the latest release? You can find it packaged as live-boot and instal
 
 ## Building the BitCurator distro (for developers)
 
-The BitCurator GitHub organization currently includes two core repositories that support building the BitCurator environment:
+The BitCurator GitHub organization currently includes two core repositories required to build the BitCurator environment:
 
 - bitcurator-distro-salt (https://github.com/bitcurator/bitcurator-distro-salt)
 - bitcurator-distro-tools (https://github.com/bitcurator/bitcurator-distro-tools)
