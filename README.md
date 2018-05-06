@@ -18,8 +18,8 @@ The BitCurator environment is a customized respin of Ubuntu. Aside from the init
 
 ## BitCurator documentation, help, and other information
 
-User documentation and additional resources are available at
-[http://wiki.bitcurator.net/](http://wiki.bitcurator.net/).
+User documentation and additional resources are available on
+[th BitCurator Environment wiki](https://confluence.educopia.org/display/BC).
 
 Questions and comments can also be directed to the bitcurator-users list.
 
