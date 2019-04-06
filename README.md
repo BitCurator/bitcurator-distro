@@ -4,6 +4,7 @@
 
 [![GitHub issues](https://img.shields.io/github/issues/bitcurator/bitcurator-distro.svg)](https://github.com/bitcurator/bitcurator-distro/issues)
 [![GitHub forks](https://img.shields.io/github/forks/bitcurator/bitcurator-distro.svg)](https://github.com/bitcurator/bitcurator-distro/network)
+[![Twitter Follow](https://img.shields.io/twitter/follow/bitcurator.svg?style=social&label=Follow)](https://twitter.com/bitcurator)
 
 [**DOWNLOAD THE LATEST RELEASE**](https://github.com/BitCurator/bitcurator-distro/wiki/Releases) (VirtualBox VM or Live ISO)
 
