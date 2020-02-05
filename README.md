@@ -6,16 +6,16 @@
 [![GitHub forks](https://img.shields.io/github/forks/bitcurator/bitcurator-distro.svg)](https://github.com/bitcurator/bitcurator-distro/network)
 [![Twitter Follow](https://img.shields.io/twitter/follow/bitcurator.svg?style=social&label=Follow)](https://twitter.com/bitcurator)
 
-[**DOWNLOAD THE LATEST RELEASE**](https://github.com/BitCurator/bitcurator-distro/wiki/Releases) (VirtualBox VM or Live ISO)
+[**DOWNLOAD THE LATEST RELEASE**](https://github.com/BitCurator/bitcurator-distro/wiki/Releases) (VirtualBox VM or self-deployed)
 
 ## Building the BitCurator distro (for developers)
 
 The BitCurator GitHub organization currently includes two core repositories required to build the BitCurator environment:
 
 - bitcurator-distro-salt (https://github.com/bitcurator/bitcurator-distro-salt)
-- bitcurator-distro-tools (https://github.com/bitcurator/bitcurator-distro-tools)
+- bitcurator-distro-installer (https://github.com/bitcurator/bitcurator-distro-installer)
 
-The BitCurator environment is a customized respin of Ubuntu. Aside from the initial Ubuntu install, a small number of manual tweaks, and executing the respin tool, the process is fully automated by SaltStack. To get started building and testing a new release, follow the link to **bitcurator-distro-salt** above.
+The BitCurator environment is a customized variant of Ubuntu. Aside from the initial Ubuntu install, the process is fully automated by SaltStack. To get started with a pre-built VM or deploy it yourself, follow the link to **bitcurator-distro-salt** above.
 
 ## BitCurator documentation, help, and other information
 
