@@ -24,7 +24,7 @@ Visit the [BitCurator wiki on GitHub](https://github.com/BitCurator/bitcurator-d
 Have a question, idea, or use case to share? Post it to the [BitCurator Discussions](https://github.com/orgs/BitCurator/discussions) board!
 
 Some community maintained documentation and resources are available at
-[the BitCurator Confluence instance hosted by Educopia](https://confluence.educopia.org/display/BC). However, these may not always be up to date with the latest releases.
+[the BitCurator Confluence instance hosted by Educopia](https://confluence.educopia.org/display/BC). Note that the information on this site may lag behind the latest release(s).
 
 Questions and comments can also be sent to the [bitcurator-users Google Group](https://groups.google.com/d/forum/bitcurator-users).
 
