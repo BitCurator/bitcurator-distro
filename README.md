@@ -17,14 +17,16 @@ The BitCurator GitHub organization currently includes two core repositories requ
 
 The BitCurator environment is a customized variant of Ubuntu. Aside from the initial Ubuntu install, the process is fully automated by SaltStack. To get started with the deployment process, follow the link to **bitcurator-salt** above.
 
-## BitCurator documentation, help, and other information
+## BitCurator documentation, help, and discussions
 
-User documentation and additional resources are available on
-[the BitCurator Environment wiki](https://confluence.educopia.org/display/BC).
+Visit the [BitCurator wiki on GitHub](https://github.com/BitCurator/bitcurator-distro/wiki/Releases) to find the [latest version of our Quickstart Guide](https://github.com/BitCurator/bitcurator-distro/wiki/Releases#quickstart-guide).
 
-Questions and comments can also be directed to the bitcurator-users list.
+Have a question, idea, or use case to share? Post it to the [BitCurator Discussions](https://github.com/orgs/BitCurator/discussions) board!
 
-[https://groups.google.com/d/forum/bitcurator-users](https://groups.google.com/d/forum/bitcurator-users)
+Some community maintained documentation and resources are available at
+[the BitCurator Confluence instance hosted by Educopia](https://confluence.educopia.org/display/BC). However, these may not always be up to date with the latest releases.
+
+Questions and comments can also be sent to the [bitcurator-users Google Group](https://groups.google.com/d/forum/bitcurator-users).
 
 ## License(s)
 
