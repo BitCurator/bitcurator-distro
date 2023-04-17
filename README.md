@@ -8,9 +8,9 @@
 
 [**DOWNLOAD THE LATEST RELEASE**](https://github.com/BitCurator/bitcurator-distro/wiki/Releases)
 
-## Building the BitCurator distro (current release)
+## Building the BitCurator Environment
 
-The BitCurator GitHub organization currently includes two core repositories required to build the BitCurator environment:
+The BitCurator GitHub organization currently includes two repositories required to build the BitCurator environment:
 
 - BitCurator SaltStack deployment states and instructions: bitcurator-salt (https://github.com/bitcurator/bitcurator-salt)
 - BitCurator CLI Installer: bitcurator-cli (https://github.com/bitcurator/bitcurator-cli)
