@@ -40,6 +40,6 @@ In addition to software produced by the BitCurator team, BitCurator packages and
 
 The BitCurator environment is a product of the BitCurator team housed at the School of Information and Library Science at the University of North Carolina at Chapel Hill. Funding between 2011 and 2014 was provided by the Andrew W. Mellon Foundation.
 
-Ongoing support for the BitCurator environment is managed by the BitCurator Consortium. Find out more at:
+Ongoing community support is provided by the BitCurator Consortium. Find out more at:
 
-http://www.bitcuratorconsortium.net/
+http://www.bitcuratorconsortium.org/
