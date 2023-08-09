@@ -6,13 +6,13 @@
 [![GitHub forks](https://img.shields.io/github/forks/bitcurator/bitcurator-distro.svg)](https://github.com/bitcurator/bitcurator-distro/network)
 [![Twitter Follow](https://img.shields.io/twitter/follow/bitcurator.svg?style=social&label=Follow)](https://twitter.com/bitcurator)
 
-[**DOWNLOAD THE LATEST RELEASE**](https://github.com/BitCurator/bitcurator-distro/wiki/Releases)
+[**Follow this link to download the latest release**](https://github.com/BitCurator/bitcurator-distro/wiki/Releases)
 
 ## Building the BitCurator Environment
 
 The BitCurator GitHub organization currently includes two repositories required to build the BitCurator environment:
 
-- BitCurator SaltStack deployment states and instructions: bitcurator-salt (https://github.com/bitcurator/bitcurator-salt)
+- BitCurator SaltStack states and instructions: bitcurator-salt (https://github.com/bitcurator/bitcurator-salt)
 - BitCurator CLI Installer: bitcurator-cli (https://github.com/bitcurator/bitcurator-cli)
 
 The BitCurator environment is a customized variant of Ubuntu. Aside from the initial Ubuntu install, the process is fully automated by SaltStack. To get started with the deployment process, follow the link to **bitcurator-salt** above.
