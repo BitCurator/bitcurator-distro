@@ -22,8 +22,8 @@ Visit the [BitCurator wiki on GitHub](https://github.com/BitCurator/bitcurator-d
 
 Have a question, idea, or use case to share? Post it to the [BitCurator Discussions](https://github.com/orgs/BitCurator/discussions) board!
 
-Some community maintained documentation and resources are available at
-[the BitCurator Confluence instance hosted by Educopia](https://confluence.educopia.org/display/BC). Note that the information on this site may lag behind the latest release(s).
+Some additional community maintained documentation and resources are available at
+[the BitCurator documentation site](https://bitcurator.github.io/documentation/). Note that the information on this site may lag behind the latest release(s).
 
 Questions and comments can also be sent to the [bitcurator-users Google Group](https://groups.google.com/d/forum/bitcurator-users).
 
@@ -37,8 +37,8 @@ In addition to software produced by the BitCurator team, BitCurator packages and
 
 ## Development Team and Support
 
-The BitCurator environment is a product of the BitCurator team housed at the School of Information and Library Science at the University of North Carolina at Chapel Hill. Funding between 2011 and 2014 was provided by the Andrew W. Mellon Foundation.
+The BitCurator environment is volunteer-maintained. BitCurator was originally developed in the School of Library and Information Science at the University of North Carolina at Chapel Hill with funding provided by the Andrew W. Mellon Foundation (2011-2014).
 
-Ongoing community support is provided by the BitCurator Consortium. Find out more at:
+Community support is managed by the BitCurator Consortium. Find out more at:
 
 http://www.bitcuratorconsortium.org/
